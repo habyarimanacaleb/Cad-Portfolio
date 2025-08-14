@@ -18,9 +18,6 @@ export default function Skills() {
     { name: "Product Design", level: 90, icon: "💡" },
     { name: "CAD Drafting", level: 95, icon: "📐" },
     { name: "Rendering & Visualization", level: 85, icon: "🎨" },
-    // { name: "React.js", level: 75, icon: "⚛️" },
-    // { name: "Tailwind CSS", level: 80, icon: "🎨" },
-    // { name: "JavaScript", level: 75, icon: "💻" },
   ]
 
   const certifications = [
